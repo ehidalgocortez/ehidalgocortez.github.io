@@ -1708,3 +1708,7 @@ figure.dotted-bg {
 .s-i:hover span{
   color: #ffffff;
 }
+
+.menu-icon{
+  vertical-align: text-top;
+}
