@@ -623,7 +623,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     .untree_co-section .heading strong, .untree_co-section .subheading strong {
       font-weight: 700; }
   .untree_co-section .heading {
-    font-size: 40px; }
+    font-size: 33px; }
   .untree_co-section .subheading {
     font-size: 18px;
     font-family: "PT Mono", monospace; }
@@ -1468,10 +1468,11 @@ figure.dotted-bg {
 .social-icons li {
   display: inline-block; }
   .social-icons li a {
+    font-size: 30px;
     color: rgba(255, 255, 255, 0.5);
     display: inline-block;
-    width: 40px;
-    height: 40px;
+    width: 55px;
+    height: 55px;
     position: relative;
     border-radius: 50%;
     background: #303030; }
@@ -1669,3 +1670,17 @@ figure.dotted-bg {
       .site-footer .social li a:hover {
         background: #36a1ff;
         color: #ffffff; }
+
+
+.profile-img{
+  height: 200px;
+  width: 200px;
+}
+
+.img_skill{
+  height: 50px;
+  width: 50px;
+}
+.emoji{
+  font-size: 22px;
+}
